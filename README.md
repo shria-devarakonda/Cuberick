@@ -1,7 +1,7 @@
 # Cuberick
 Aesthetically pleasing and oh so very sophisticated game made on Unity with C#. Just 3 levels. *Enjoy*. :godmode:
 
-You'll find the .exe in the "**game**" folder. You can add to this game if you'd like, ~~not that that is needed~~. 
+You'll find the game : **Airs.exe** in the "*game*" folder. You can add to this game if you'd like, ~~not that that is needed~~. 
 
 >I might work on this some more.<
 
