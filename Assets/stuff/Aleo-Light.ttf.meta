@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ee21c51d25fd59a46ad4f29705538e1c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aleo Light
+  fontNames:
+  - Aleo Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 98bc0f7151032774b89f6cc86e319b91, type: 3}
+  - {fileID: 12800000, guid: 3502e2e1625b13a4b9e985bb129de6e7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
