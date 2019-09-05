@@ -3,7 +3,7 @@ Aesthetically pleasing and oh so very sophisticated game made on Unity with C#. 
 
 You'll find the game : **Airs.exe** in the "*game*" folder. You can add to this game if you'd like, ~~not that that is needed~~. 
 
->I might work on this some more.<
+>I might work on this some more.
 
 What you need to know:
 - ***A and D*** or ***Right and Left arrow keys to move***
