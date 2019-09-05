@@ -7,6 +7,6 @@ You'll find the game : **Airs.exe** in the "*game*" folder. You can add to this 
 
 What you need to know:
 - ***A and D*** or ***Right and Left arrow keys to move***
--Yes this is my first unity game and yes it's based on *that* tutorial.
--If you want to add to this, you're welcome to collaborate.
--***Subscribe*** to my youtube channel where I killed like 5 people with a Junkrat ult. [ LINK ](https://www.youtube.com/channel/UCPoRRxnoDRkP0KUtAKTFsrA)
+- Yes this is my first unity game and yes it's based on *that* tutorial.
+- If you want to add to this, you're welcome to collaborate.
+- ***Subscribe*** to my youtube channel where I killed like 5 people with a Junkrat ult. [ LINK ](https://www.youtube.com/channel/UCPoRRxnoDRkP0KUtAKTFsrA)
